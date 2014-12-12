@@ -1,0 +1,9 @@
+{
+    "name": "Soulware/EditMetadataOnInstall",
+    "description": "SugarCRM install and uninstall script to modify or extend Metadata with custom code.",
+    "version": "0.9.0",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
