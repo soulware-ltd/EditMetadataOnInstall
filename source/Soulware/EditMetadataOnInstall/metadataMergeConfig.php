@@ -1,5 +1,5 @@
 <?php
-namespace Soulware;
+namespace Soulware\EditMetadataOnInstall;
 
 class metadataMergeConfig {
     public $module; //string
